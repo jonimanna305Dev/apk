@@ -1,7 +1,7 @@
 {
   "name": "NovaCore App",
   "short_name": "NovaCoreApp",
-  "start_url": "/",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4f46e5",
