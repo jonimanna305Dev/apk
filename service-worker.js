@@ -1,11 +1,14 @@
 const CACHE_NAME = "novacore-app-v1";
 const urlsToCache = [
   "/",
-  "/index.html",
-  "/about.html",
-  "/services.html",
-  "/blog.html",
-  "/contact.html"
+  "./index.html",
+  "./about.html",
+  "./services.html",
+  "./blog.html",
+  "./contact.html",
+  "./manifest.json",
+  "./icon-192.png",
+  "./icon-512.png"
 ];
 
 // Install
